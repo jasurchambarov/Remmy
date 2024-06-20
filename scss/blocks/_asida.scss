@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.container {
+  width: 1440px;
+  background: #ffffff;
+}
+
+.asida__box {
+  margin-top: 500px;
+  margin-left: 200px;
+}
+
+.asida__box--span {
+  width: 91px;
+  height: 20px;
+  top: -0.25px;
+  left: -0.02px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #3d55f9;
+}
+
+.asida__box--head {
+  width: 354px;
+  height: 94px;
+  top: 39.75px;
+  left: -0.02px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 46.67px;
+  text-align: left;
+}
+
+.asida__box--text {
+  width: 370px;
+  height: 65px;
+  top: 7px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 32.04px;
+  text-align: left;
+}
+
+.asida__box--text2 {
+  margin-top: 50px;
+  width: 430px;
+  height: 97px;
+  top: 7px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32.04px;
+  text-align: left;
+}
+
+.asida__img{
+    margin-left: 700px;
+    margin-top: -500px;
+}
